@@ -1,24 +1,10 @@
 {
   "name": "ninja-desktop-ui",
   "version": "0.1.0",
-  "description": "Driver handling communication to the Ninja Blocks desktop UI.",
+  "description": "Driver handling communication to the NinjaBlocks desktop UI.",
   "main": "index.js",
   "repository": "",
-  "author": "Ninja Blocks <support@ninjablocks.com>",
-  "contributors": [
-    {
-      "name": "Emily Rose",
-      "email": "emily@ninjablocks.com"
-    },
-    {
-      "name": "Daniel Friedman",
-       "email" : "daniel@ninjablocks.com"
-    },
-    {
-      "name": "Elliot Shepherd",
-       "email" : "elliot@ninjablocks.com"
-    }
-  ],
+  "author": "Elliot Shepherd <elliot@ninjablocks.com>",
   "license": "MIT",
   "dependencies": {
   }
